@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It helps me seeing the bug and the cause of it as well. I'm able to detect the problem and so I'll fix my software according to the mistakes.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Understanding the history of a certain file will open a door to understanding gradual improvements. We could even use it to retrive the imformation about how engineers worked their way up to the debug.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros for manual control are the absolute power of when to make logical saves and being in charge of the responsibilities for the code while other systems don't know the way I'm operating and how I want my soft to look like. Cons will be the human factor of the memory when we can forget to have our scripts saved and loaded while automation in this process will do us a huge favor.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Saving many files as one is useful when all of them are connected. Git is a hard-core coding soft while GDocs and others are simply cloud storages for data.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Git log shows us the list of code updates sorted by time and also each of them has its own unique id. Then we'll have to use git diff to check the changes within the code structure highlighted for us in the red and green.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    While using VerCtrl I can stay fearless about making critical mistakes for there's always a quick save for my progress. I'm confident that my app will never crash because of the stored older versions of my code.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Most definately I'll be using Git for version controls and advance code development projects. Such a useful tool will play a great role within my future coding experiments.
