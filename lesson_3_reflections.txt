@@ -10,7 +10,7 @@ In case I want to compare oparational abilities of two codes I'd use such a stta
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+Fork is the GitHub's special system for manipulating copies of the code, only available within the GH software - I'd use it while working inside GH community or with its desktop app. Clone is exactly what it is literally, making coppies of the code from one source to another even from GH to PC and vice versa - I'll use it for copy-making when I wan to have a physical copy of the code on my hardware. Branches are individual versions of commits that are present within the code-editing history and they're similar to expansion-mods for today's games - great option for creating versions and add-ons for our modification purposes in the code.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
