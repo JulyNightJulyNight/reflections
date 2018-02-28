@@ -25,4 +25,4 @@ I'd collaborate via phone or social networks and even face-to-face if the develo
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+When I'm not 100% positive with my versio-control I'll create commit to a branch or even when I'm developing an edition for the master code. Committing to the master branch is a major step that has to be crystal clear of mistakes, but with versions we'll hve an extra chance to go over the additions.
