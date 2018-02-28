@@ -20,7 +20,7 @@ The benefits are being up-to-date with coding steps and keeping files synchroniz
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+I'd collaborate via phone or social networks and even face-to-face if the developing group is local. GitHub is making it easier for us to synchronize the data and keep our codes up-to-date, it'd be much hareder to get the job done with an international team withour such tools indeed.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
