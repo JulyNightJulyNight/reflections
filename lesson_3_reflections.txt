@@ -5,12 +5,12 @@ I'd use romote option while working in team on a large coding project. Also it'l
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-OMG this text was lost :(
+In case I want to compare oparational abilities of two codes I'd use such a sttategy for having a real-time-experience. It's great to have extra control under as much tools as we can have.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-And this one as well :(:( WHY??????????
+Fork is the GitHub's special system for manipulating copies of the code, only available within the GH software - I'd use it while working inside GH community or with its desktop app. Clone is exactly what it is literally, making coppies of the code from one source to another even from GH to PC and vice versa - I'll use it for copy-making when I wan to have a physical copy of the code on my hardware. Branches are individual versions of commits that are present within the code-editing history and they're similar to expansion-mods for today's games - great option for creating versions and add-ons for our modification purposes in the code.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
